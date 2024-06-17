@@ -1,0 +1,1 @@
+Olá! Seja bem-vindo(a) ao meu projeto de calculadora básica. Como o próprio nome diz, é apenas uma calculadora que realiza operações básicas. Não é possível fazer operação de raiz quadrada, por exemplo. Quem sabe um dia eu tenha capacidade de criar uma calculadora científica kkkkk
